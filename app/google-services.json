@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438902883557",
+    "project_id": "fir-mcp",
+    "storage_bucket": "fir-mcp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438902883557:android:b543a96931932ab1b0c00c",
+        "android_client_info": {
+          "package_name": "com.mcp.demomcp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5gxkiG22x6HUqmzpYCQQehpTkpXcIis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

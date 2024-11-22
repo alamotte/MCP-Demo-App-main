@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">demomcp1</string>
+    <string name="home_screen_logo">https://cumulus-fs.s3.amazonaws.com/images/cumulus-logo.png</string>
+    <string name="home_screen_title">Banner types (from MCP)</string>
+    <string name="experience_menu_item">Data Campaign - Experience</string>
+    <string name="promotion_menu_item">Data Campaign - Promotion (promoted)</string>
+    <string name="serverside_menu_item">Server Side Campaign</string>
+    <string name="catalog_menu_item">Catalog interactions</string>
+
+    <string name="experience_screen_title">Data Campaign - Experience</string>
+    <string name="experience_screen_action">Experience screen</string>
+    <string name="experience_campaign_action">experienceTarget</string>
+
+    <string name="promotion_screen_title">Data Campaign - Promotion</string>
+    <string name="promotion_screen_action">Promotion screen</string>
+    <string name="promotion_campaign_action">promotionTarget</string>
+
+    <string name="serverside_screen_title">Server Side Campaign</string>
+    <string name="serverside_screen_action">Server Side screen</string>
+    <string name="serverside_app_name">App - Demo</string>
+    <string name="serverside_campaign_action">Get experience banner</string>
+
+    <string name="catalog_screen_title">Catalog interactions</string>
+    <string name="catalog_screen_action">Catalog screen</string>
+    <string name="catalog_viewitem">View item (product)</string>
+    <string name="catalog_purchase">Purchase (conversion)</string>
+    <string name="catalog_tag">Tag</string>
+    <string name="catalog_viewItem_product_id">WGJCFJOQEB</string>
+    <string name="catalog_viewItem_tag">mobile1</string>
+
+    <string name="mcp_instance">dmaldonado523012113</string>
+    <string name="dataset">ecommerce</string>
+    <string name="userId">TEST002</string>
+    <string name="evergage_scheme">evgts933</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="apiKeyId">AACE2882-CB1A-482E-90A1-00665C6BC7F5</string>
+    <string name="apiKeySecret">D9kdJ7OUwfDvj4H9GtTA5PS4VoD4pGwoJgx5EmMgHCs</string>
+    <string name="mcpEndpoint">https://dmaldonado523012113.us-7.evergage.com/api2/authevent/ecommerce</string>
+</resources>
